@@ -1,0 +1,12 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\bin\Debug\Proje2-SecimIstatistik.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\bin\Debug\Proje2-SecimIstatistik.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\bin\Debug\Proje2-SecimIstatistik.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2-SecimIstatistik.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2-SecimIstatistik.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2_SecimIstatistik.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2_SecimIstatistik.FrmGrafikler.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2_SecimIstatistik.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2-SecimIstatistik.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2-SecimIstatistik.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2-SecimIstatistik.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje2-SecimIstatistik\Proje2-SecimIstatistik\obj\Debug\Proje2-SecimIstatistik.pdb

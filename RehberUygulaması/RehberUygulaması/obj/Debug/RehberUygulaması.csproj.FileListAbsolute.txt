@@ -1,0 +1,11 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\bin\Debug\RehberUygulaması.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\bin\Debug\RehberUygulaması.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\bin\Debug\RehberUygulaması.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\RehberUygulaması\RehberUygulaması\obj\Debug\RehberUygulaması.pdb

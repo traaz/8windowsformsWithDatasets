@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje4-Sinema Veritabanı Uygulaması", "Proje4-SineMA Veritabanı Uygulaması\Proje4-Sinema Veritabanı Uygulaması.csproj", "{7E9A0DA0-4C78-40CF-BFC5-9018208C8A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9A0DA0-4C78-40CF-BFC5-9018208C8A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9A0DA0-4C78-40CF-BFC5-9018208C8A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9A0DA0-4C78-40CF-BFC5-9018208C8A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9A0DA0-4C78-40CF-BFC5-9018208C8A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B395E686-BC5C-4167-BA13-C2D9FBC43040}
+	EndGlobalSection
+EndGlobal

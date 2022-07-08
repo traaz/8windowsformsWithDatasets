@@ -1,0 +1,15 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\bin\Debug\Proje4-SineMA Veritabanı Uygulaması.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\bin\Debug\Proje4-SineMA Veritabanı Uygulaması.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\bin\Debug\Proje4-SineMA Veritabanı Uygulaması.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4-SineMA Veritabanı Uygulaması.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4-SineMA Veritabanı Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4_SineMA_Veritabanı_Uygulaması.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4_SineMA_Veritabanı_Uygulaması.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4-SineMA Veritabanı Uygulaması.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4-SineMA Veritabanı Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4-SineMA Veritabanı Uygulaması.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4-SineMA Veritabanı Uygulaması.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4_SineMA_Veritabanı_Uygulaması.ismeGoreArama.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4_SineMA_Veritabanı_Uygulaması.PuanaGore.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4_SineMA_Veritabanı_Uygulaması.YilaGoreSirala.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Proje4-SineMA Veritabanı Uygulaması\Proje4-SineMA Veritabanı Uygulaması\obj\Debug\Proje4_SineMA_Veritabanı_Uygulaması.TureGoreSirala.resources
