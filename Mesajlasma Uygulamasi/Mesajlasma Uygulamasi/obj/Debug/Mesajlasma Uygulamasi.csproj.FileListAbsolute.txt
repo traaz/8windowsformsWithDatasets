@@ -1,0 +1,12 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\bin\Debug\Mesajlasma Uygulamasi.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\bin\Debug\Mesajlasma Uygulamasi.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\bin\Debug\Mesajlasma Uygulamasi.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma_Uygulamasi.AnaSayfa.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma_Uygulamasi.MesajApp.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma_Uygulamasi.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma Uygulamasi.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma Uygulamasi.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Mesajlasma Uygulamasi\Mesajlasma Uygulamasi\obj\Debug\Mesajlasma Uygulamasi.pdb
