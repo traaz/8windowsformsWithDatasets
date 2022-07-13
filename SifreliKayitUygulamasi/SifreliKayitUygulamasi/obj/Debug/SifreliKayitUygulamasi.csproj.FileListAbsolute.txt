@@ -1,0 +1,11 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\bin\Debug\SifreliKayitUygulamasi.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\bin\Debug\SifreliKayitUygulamasi.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\bin\Debug\SifreliKayitUygulamasi.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\SifreliKayitUygulamasi\SifreliKayitUygulamasi\obj\Debug\SifreliKayitUygulamasi.pdb
