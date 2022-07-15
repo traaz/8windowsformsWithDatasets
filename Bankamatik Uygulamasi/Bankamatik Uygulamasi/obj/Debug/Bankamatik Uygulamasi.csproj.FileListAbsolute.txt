@@ -1,0 +1,13 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\bin\Debug\Bankamatik Uygulamasi.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\bin\Debug\Bankamatik Uygulamasi.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\bin\Debug\Bankamatik Uygulamasi.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik_Uygulamasi.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik_Uygulamasi.Kayit.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik_Uygulamasi.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik Uygulamasi.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik Uygulamasi.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik Uygulamasi.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\Bankamatik Uygulamasi\Bankamatik Uygulamasi\obj\Debug\Bankamatik_Uygulamasi.AnaSayfa.resources
