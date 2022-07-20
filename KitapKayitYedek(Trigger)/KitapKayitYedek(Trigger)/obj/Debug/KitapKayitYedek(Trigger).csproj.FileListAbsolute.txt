@@ -1,0 +1,11 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\bin\Debug\KitapKayitYedek(Trigger).exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\bin\Debug\KitapKayitYedek(Trigger).exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\bin\Debug\KitapKayitYedek(Trigger).pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek(Trigger).csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek(Trigger).csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek_Trigger_.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek_Trigger_.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek(Trigger).csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek(Trigger).csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek(Trigger).exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\KitapKayitYedek(Trigger)\KitapKayitYedek(Trigger)\obj\Debug\KitapKayitYedek(Trigger).pdb
