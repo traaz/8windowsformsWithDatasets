@@ -1,0 +1,11 @@
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\bin\Debug\PetrolStok.exe.config
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\bin\Debug\PetrolStok.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\bin\Debug\PetrolStok.pdb
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.csproj.AssemblyReference.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.Form1.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.Properties.Resources.resources
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.csproj.GenerateResource.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.csproj.CoreCompileInputs.cache
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.exe
+C:\Users\trka8\OneDrive\Masaüstü\forms\PetrolStok\PetrolStok\obj\Debug\PetrolStok.pdb
