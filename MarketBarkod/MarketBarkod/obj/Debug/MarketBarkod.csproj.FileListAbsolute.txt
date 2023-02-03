@@ -1,0 +1,13 @@
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\bin\Debug\MarketBarkod.exe.config
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\bin\Debug\MarketBarkod.exe
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\bin\Debug\MarketBarkod.pdb
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.csproj.AssemblyReference.cache
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.csproj.SuggestedBindingRedirects.cache
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.AdminKategori.resources
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.Form1.resources
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.Properties.Resources.resources
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.csproj.GenerateResource.cache
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.csproj.CoreCompileInputs.cache
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.exe
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.pdb
+C:\Users\trka8\source\repos\MarketBarkod\MarketBarkod\obj\Debug\MarketBarkod.btnMainPage.resources
